@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+
+   <fontFamily name="Times New Roman Cyr">
+       <normal><![CDATA[fonts/times new roman.ttf]]></normal>
+       <bold><![CDATA[fonts/times new roman bold.ttf]]></bold>
+       <italic><![CDATA[fonts/times new roman italic.ttf]]></italic>
+       <boldItalic><![CDATA[fonts/times new roman bold italic.ttf]]></boldItalic>
+       <pdfEncoding><![CDATA[Cp1251]]></pdfEncoding>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+   </fontFamily>
+
+
+</fontFamilies>
